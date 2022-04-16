@@ -7,6 +7,7 @@ const IndexPage = () => {
       <GlobalStyle />
       <title>Home Page</title>
       <h1>Charlotte Drayson</h1>
+      <h1>TEST</h1>
     </main>
   )
 }
