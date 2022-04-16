@@ -14,8 +14,10 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@fontsource/work-sans": "^4.5.7",
     "gatsby": "^4.12.1",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.3.5"
   }
 }
